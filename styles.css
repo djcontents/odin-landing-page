@@ -43,3 +43,14 @@ h1{
     font-weight: bolder;
     color: #f9faf8;
 }
+
+.content{
+    display: flex;
+    flex-direction: row;
+}
+
+.content-left, .content-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
