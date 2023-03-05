@@ -50,10 +50,16 @@ h1{
     margin: 50px;
 }
 
-.content-left, .content-right{
+.content-right{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    width: 50%;
+}
+
+.content-left{
+    display: flex;
     flex-direction: column;
     width: 50%;
 }
