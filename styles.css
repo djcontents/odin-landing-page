@@ -19,3 +19,8 @@ body{
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
