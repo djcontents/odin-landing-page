@@ -29,3 +29,9 @@ ul{
    display: flex; 
    flex-direction: row;
 }
+
+.navbar-left,.navbar-right{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+}
