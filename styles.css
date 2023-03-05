@@ -66,5 +66,11 @@ h1{
     align-items: center;
 }
 img{
-   margin: 50px; 
+   margin: 50px;   
+}
+
+p-first{
+    margin-left: 40px;
+    color: #e5e7eb;
+    margin-left: 90px;
 }
