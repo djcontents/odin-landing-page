@@ -63,8 +63,8 @@ h1{
     flex-direction: column;
     width: 50%;
     justify-content: center;
-    align-items: center;
     color: #e5e7eb;
+    margin-left: 220px;
     
 }
 img{
@@ -74,7 +74,7 @@ img{
 p-first{
     font-size: 18px;
     color: #e5e7eb;
-    margin-left: 90px;
+    
 }
 .sign-up-first-section{
   background-color: #3882f6; 
